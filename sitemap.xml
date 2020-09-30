@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://example.com/2020/08/28/Vue%20Router/</loc>
+    
+    <lastmod>2020-09-30</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://example.com/2020/08/26/Vue%20%E7%BB%84%E4%BB%B6/</loc>
+    
+    <lastmod>2020-09-21</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://example.com/2020/08/24/Vue%20%E5%9F%BA%E7%A1%80/</loc>
     
     <lastmod>2020-09-17</lastmod>
@@ -32,7 +46,7 @@
 
   <url>
     <loc>http://example.com/</loc>
-    <lastmod>2020-09-17</lastmod>
+    <lastmod>2020-09-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
